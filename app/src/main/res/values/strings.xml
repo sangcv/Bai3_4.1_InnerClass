@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bai3 4.1 InnerClass</string>
+    <string name="hello_text">Hello | Konichiwa </string>
+    <string name="bye_text">Goodbye | Sayonara</string>
+</resources>
